@@ -15,7 +15,7 @@ npm install --save-dev eslint-config-airbnb-base
 ```json
     "extends": [
         "airbnb-base",
-        "@h2q318/eslint-config-expressjs"
+        "@h2q318/expressjs"
     ]
 ```
 - To check eslint, you need to add line in your package.json:
