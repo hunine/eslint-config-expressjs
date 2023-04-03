@@ -1,0 +1,35 @@
+{
+  "name": "@h2q318/eslint-config-expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+    "eslintConfig": {
+    "extends": "./index.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.37.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunine/eslint-config-expressjs.git"
+  },
+    "keywords": [
+    "eslint",
+    "airbnb-base",
+    "eslint-config-expressjs",
+    "eslint-config-airbnb-base-extended",
+    "Eslint ExpressJs"
+  ],
+  "author": "Hung Hoang Quang <hqhung201@gmail.com>",
+    "bugs": {
+    "url": "https://github.com/hunine/eslint-config-expressjs/issues"
+  },
+  "homepage": "https://github.com/hunine/eslint-config-expressjs#readme",
+  "license": "ISC",
+    "peerDependencies": {
+    "eslint": "^6 || ^7.2.0"
+  }
+}
